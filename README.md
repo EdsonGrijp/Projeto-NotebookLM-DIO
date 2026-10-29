@@ -1,5 +1,7 @@
 # Projeto-NotebookLM-DIO
 
+> Link do NotebookLM -> https://notebook.google.com/notebook/1c54e59e-a227-451a-8092-01ff9b81b378?authuser=2
+
 **Tema**
 Análise de gráficos e estudos sobre investimentos de curto e longo prazo.
 
@@ -92,3 +94,7 @@ BARSI REVELA COMO SE APOSENTAR EM 6 ANOS! (YouTube): Explica o conceito de inves
 Como Luiz BARSI Se Tornou O MAIOR INVESTIDOR do Brasil | O Rei Dos Dividendos (YouTube): Detalha a estratégia de concentrar aportes em empresas consolidadas de energia, saneamento e seguros para a construção de renda de longo prazo
 .
 3 AÇÕES QUE BARSI NÃO TIRA DA CARTEIRA (YouTube): Exemplifica a aplicação dessa estratégia citando empresas perenes e pagadoras de dividendos mantidas na carteira
+
+
+
+# As fontes utilizadas nesse material foram escolhidas por terem sido produzidas por especialistas ou entededores do assunto. 
